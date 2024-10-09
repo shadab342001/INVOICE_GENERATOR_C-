@@ -2,7 +2,7 @@
 Overview
 The Invoice Management System is a comprehensive C++ application designed to facilitate the generation and management of invoices for small to medium-sized businesses. This project demonstrates my skills in object-oriented programming, data management, and software design principles, while providing a user-friendly interface for creating, viewing, and modifying invoices.
 
-Key Features
+------------:Key Features:---------------
 Dynamic Item Management: Users can add, delete, and modify items in each invoice. Each item includes detailed information such as name, category, quantity, and price, allowing for flexible invoice customization.
 
 Multiple Invoice Templates: The system supports two distinct invoice templates:
@@ -17,7 +17,7 @@ Comprehensive Invoice Viewing: The system allows users to view all generated inv
 
 User-Friendly Interface: The command-line interface guides users through the invoice creation process with prompts and instructions, ensuring an intuitive experience.
 
-Technical Skills Demonstrated
+-----------:Technical Skills Demonstrated:--------------
 Object-Oriented Programming: The application leverages classes and inheritance to structure the codebase, promoting reusability and maintainability.
 
 Data Structures: Utilizes vectors for dynamic storage of invoice items and invoices, showcasing an understanding of efficient data management.
@@ -26,11 +26,11 @@ Time Handling: Incorporates date and time functionalities for generating timesta
 
 Formatted Output: Implements formatting techniques for displaying invoice details clearly and professionally, enhancing user experience.
 
-How to Use
+---------:How to Use:-------------
 Clone the repository and navigate to the project directory.
 Compile the code using a C++ compiler (e.g., g++).
 Run the executable and follow the prompts to create and manage invoices.
-Future Enhancements
+----------:Future Enhancements:-----------
 Implement a graphical user interface (GUI) for a more modern user experience.
 Add database integration for persistent storage of invoices.
 Introduce export functionalities to save invoices in various formats (e.g., PDF).
